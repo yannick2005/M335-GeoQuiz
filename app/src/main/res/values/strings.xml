@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="singleplayer">Singleplayer</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="start">Starten</string>
+    <string name="playerAmount">Anzahl Spieler</string>
+</resources>
