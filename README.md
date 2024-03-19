@@ -10,4 +10,4 @@
 Ich habe irgendwie nicht das Gefühl das ich etwas überhaupt richtig gemacht habe. Ich sollte nächstes Mal eifnach mehr über Sachen überlegen und schauen wie ich das am besten lösen kann anstatt einfach drauf los gehen und auszuprobieren bis es geht. 
 
 ### Schlechtes
-Damit die Flagge angezeigt wird, brauchte ich sehr lange, da die Bilder SVGs wahren und das anderst gehandhabt wird. Ich würde nächstes Mal keine SVG Bilder aus dem Internet nehmen, das hätte mir wahrscheinlich eine ernorme Zeitersparnis gegeben. Und wie oben schon gesagt ich habe einfach drauf los probiert ich sollte mir für Sachen mehr Zeit nehmen.
+Damit die Flagge angezeigt wird, brauchte ich sehr lange, da die Bilder SVGs wahren und das anderst gehandhabt wird. Ich würde nächstes Mal keine SVG Bilder aus dem Internet nehmen, das hätte mir wahrscheinlich eine ernorme Zeitersparnis gegeben. Und wie oben schon gesagt ich habe einfach drauf los probiert ich sollte mir für Sachen mehr Zeit nehmen. Auch hätte ich die Struktur des Codes verbessern können. Ich glaube der Code ist schwer zu lesen und ich könnte in wenn ich ihn in einem Jahr wieder anschaue, selber nicht mehr verstehen. 
