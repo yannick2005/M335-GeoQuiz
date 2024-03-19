@@ -1,4 +1,11 @@
 # M335-GeoQuiz
+
+## Idee
+Meine Idee war es ein Flaggen Quiz zu erstellen, da ich Spass an Geography hatte und mir nichts anderes in den Sinn kam zu machen. 
+
+## Umsetzung
+Damit ich alle Flaggen und Länder habe wollte ich ein library oder eine JSON Datei bei der alles schon drinnen ist damit ich mir die Zeit ersparre dies selber zu machen, ich fand für dies auf Github eine JSON Datei die genau so war wie ich es wollte, den Link dazu habe ich leider nicht mehr. 
+
 ## TestProtokoll
 | Identifikation  | Vorbereitung  | Schritt für Schritt vorgehen  | Erwartetes Resultat  | Effektives Resultat  | Zeitpunkt |
 |---|---|---|---|---| --- |
