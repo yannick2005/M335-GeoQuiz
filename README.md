@@ -6,3 +6,8 @@
 | 2 | Die Anzahl Spieler wurde schon gewählt.  | Nach dem der User das obig genannte gemacht hat. Kann er das Quiz starten.  | Wenn die Zeit von dem ersten Spieler abgelaufen ist, ist der nächste Spieler an der Reihe. Wenn es keine Spieler mehr gibt, kommt man zum Podest.  | Wenn man zwei Spieler ausgewählt hat wird nach dem ersten Spieler, nach dem seine Zeit abgelaufen ist, die Zeit zurückgestellt. Wenn der auch der zweite keine Zeit mehr hat kommt man zum Podest. Das akutell noch leer ist. | 19 März 2024 15:00 | 
 | 3 | Der User hat bereits gespielt  | Nach dem jeder das Quiz durchgeführt hat sollte automatisch das Podest kommen.  | Der Name wird richtig im Podest angezeigt  | Das Podest wird nie angezeigt man kommt einfach auf eine leere seite  | 19 März 2024 15:00 | 
 ## Reflexion
+### Gutes
+Ich habe irgendwie nicht das Gefühl das ich etwas überhaupt richtig gemacht habe. Ich sollte nächstes Mal eifnach mehr über Sachen überlegen und schauen wie ich das am besten lösen kann anstatt einfach drauf los gehen und auszuprobieren bis es geht. 
+
+### Schlechtes
+Damit die Flagge angezeigt wird, brauchte ich sehr lange, da die Bilder SVGs wahren und das anderst gehandhabt wird. Ich würde nächstes Mal keine SVG Bilder aus dem Internet nehmen, das hätte mir wahrscheinlich eine ernorme Zeitersparnis gegeben. Und wie oben schon gesagt ich habe einfach drauf los probiert ich sollte mir für Sachen mehr Zeit nehmen.
